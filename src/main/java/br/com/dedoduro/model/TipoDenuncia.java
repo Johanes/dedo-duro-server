@@ -11,6 +11,6 @@ public enum TipoDenuncia {
     ESTACIONAMENTO,
     VIGILANCIA_SANITARIA,
     LIXO,
-    OUTRAS
+    OUTRA
 
 }
